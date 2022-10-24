@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "name" :"Cox's Bazar",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e2/f8/43/longest-sea-beach-in.jpg?w=700&h=-1&s=1",
+        "description" :"Cox's Bazar is a town on the southeast coast of Bangladesh. It's known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts."
+    },
+    {
+        "id":"2",
+        "name" :"Sreemangal",
+        "origin" : "Sylhet",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ff/21/9e/awsm-but-need-a-lot-of.jpg?w=400&h=-1&s=1",
+        "description" :"Sreemangal is known as the tea capital of Bangladesh. It covers an overall are of 450 sq. km. The opulent green tea plantation attracts most tourists. It has overall 163 tea plantations. The tea of highest quality is produced here.The area around Sylhet is the traditional culture of Bangladesh and that’s why this tea is also called the national resources of Bangladesh."
+    },
+    {
+        "id":"3",
+        "name" :"Sajek",
+        "origin" : "Rangamati",
+        "image":"https://1.bp.blogspot.com/-AzV28zOin_0/YT4dBQZblOI/AAAAAAAAI_M/GX3Lh0wVgOwBMoPFpQauhYXthd4mjO4NQCNcBGAsYHQ/w1200-h630-p-k-no-nu/241782590_131394545852555_8418965203391912373_n.jpg",
+        "description":"  Sajek Tripuri Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District. The valley is 2,000 feet above sea level. Sajek Tripuri Valley is known as the Queen of Hills & Roof of Rangamati."
+    },
+    {
+        "id":"4",
+        "name" :"Sundarban",
+        "origin" : "Khulna",
+        "image":"http://www.utm.my/group/wp-content/uploads/sites/75/2011/04/sundarban_big.jpg",
+        "description":" Sundarbans is a mangrove area in the delta formed by the confluence of the Padma, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans the area from the Baleswar River in Bangladesh's division of Khulna to the Hooghly River in India's state of West Bengal."
+    }
+
+]
